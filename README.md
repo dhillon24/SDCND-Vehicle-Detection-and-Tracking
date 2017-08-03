@@ -24,3 +24,9 @@ Dependencies
 ---
 
 * [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
+
+
+Video
+---
+
+* [Link](https://youtu.be/hQm0GtZW_BQ)
